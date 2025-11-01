@@ -23,7 +23,7 @@ The Tableau Story includes **five main tabs**:
 1. **Introduction –** Overview of global emissions and project goals.  
 2. **Global View –** A worldwide map showing emissions distribution.  
 3. **Regional Focus (MENA) –** Focused view on the Middle East & North Africa region.  
-4. **Country Focus (Jordan & Egypt) –** Country-level emission trends over time.  
+4. **Country Focus (Jordan) –** Country-level emission trends over time.  
 5. **Conclusions –** Key takeaways and insights from the data.
 
 ---
